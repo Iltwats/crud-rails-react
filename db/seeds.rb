@@ -7,3 +7,6 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+Phone.new(brand: 'Redmi',country_origin: 'china', ram:16)
+Phone.new(brand: 'Google',country_origin: 'india', ram:12)
+Phone.new(brand: 'Oppo',country_origin: 'usa', ram:8)
