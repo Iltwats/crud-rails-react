@@ -4,6 +4,7 @@
   "dependencies": {
     "@rails/webpacker": "^6.0.0-rc.6",
     "antd": "^5.12.8",
+    "react": "^18.2.0",
     "react-router-dom": "^6.21.1",
     "webpack": "^5.53.0",
     "webpack-cli": "^4.8.0"
